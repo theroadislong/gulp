@@ -2,5 +2,6 @@
 
 ### How to install:
     git clone git@github.com:theroadislong/gulp.git
+    cd gulp
     npm i
     gulp start
